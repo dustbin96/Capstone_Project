@@ -20,10 +20,10 @@ conda install --file requirements.txt
 
 ### Project Code
 
-- Main code - [Kennard_Capstone.ipynb](https://github.com/dustbin96/Capstone_Project/blob/main/Project Code/Kennard_Capstone.ipynb)
+- Main code - [Kennard_Capstone.ipynb](https://github.com/dustbin96/Capstone_Project/blob/main/Project%20Code/Kennard_Capstone.ipynb)
 - Dataset
-  - [gtn_es_rev_account_deduction_9Feb22.csv](https://github.com/dustbin96/Capstone_Project/blob/main/Project Code/gtn_es_rev_account_deduction_9Feb22.csv)
-  - [gtn_es_rev_account_sku_9Feb22.csv](https://github.com/dustbin96/Capstone_Project/blob/main/Project Code/gtn_es_rev_account_sku_9Feb22.csv)
+  - [gtn_es_rev_account_deduction_9Feb22.csv](https://github.com/dustbin96/Capstone_Project/blob/main/Project%20Code/gtn_es_rev_account_deduction_9Feb22.csv)
+  - [gtn_es_rev_account_sku_9Feb22.csv](https://github.com/dustbin96/Capstone_Project/blob/main/Project%20Code/gtn_es_rev_account_sku_9Feb22.csv)
 
 ### Resources
 
